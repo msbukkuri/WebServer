@@ -1,0 +1,5 @@
+c:\users\maanas s bukkuri\documents\visual studio 2010\Projects\MyFirstWebServer\MyFirstWebServer\bin\Debug\MyFirstWebServer.exe
+c:\users\maanas s bukkuri\documents\visual studio 2010\Projects\MyFirstWebServer\MyFirstWebServer\bin\Debug\MyFirstWebServer.pdb
+c:\users\maanas s bukkuri\documents\visual studio 2010\Projects\MyFirstWebServer\MyFirstWebServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\maanas s bukkuri\documents\visual studio 2010\Projects\MyFirstWebServer\MyFirstWebServer\obj\x86\Debug\MyFirstWebServer.exe
+c:\users\maanas s bukkuri\documents\visual studio 2010\Projects\MyFirstWebServer\MyFirstWebServer\obj\x86\Debug\MyFirstWebServer.pdb
